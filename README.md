@@ -38,4 +38,4 @@ Este repositório é o **template** da atividade da Aula 05. Você (aluno) deve:
 - `.github/dependabot.yml` – configuração SCA (dependências `pip` e `github-actions`).
 - `SECURITY.md` – práticas de credenciais e como habilitar secret scanning/push protection.
 - `CLASSROOM/instrucoes_aluno.md` – guia detalhado para você.
-- `CLASSROOM/instrucoes_professor.md` – guia para o professor configurar a tarefa no Classroom
+- `CLASSROOM/instrucoes_professor.md` – guia para o professor configurar a tarefa no Classroom.
